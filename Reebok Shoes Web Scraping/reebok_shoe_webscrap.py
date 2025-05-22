@@ -84,3 +84,5 @@ for shoe_type_block,product_description_block,actual_price_block,price_block,dis
 # print("Total products found:", len(shoe_type_blocks))
 df = pd.DataFrame(data)
 df.to_csv('reebok_shoe_data.csv', index=False)
+
+# jbscchjb
